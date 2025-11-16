@@ -1,0 +1,7 @@
+satelliteData.json
+satelliteData.csv
+satelliteData.db
+satellites.db
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
