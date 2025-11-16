@@ -7,3 +7,9 @@ steps:
 2. Go through CLI_example.ipynb
 3. run fetchSatellitedata,py to get satelllite Data
 4. Go through BasicOOPs.py
+5. Install libraries using reqrements.txt
+    ```py
+    pip install -r requirements.txt
+    ```
+6. run using_pandas.py
+7. run using_sqlalchemy.py (i will automaticallly run Database.py and models.py no need to run it separately)
